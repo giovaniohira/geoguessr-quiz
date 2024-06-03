@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geoguessr-quiz/static/css/main.9de3ba19.css",
+    "main.js": "/geoguessr-quiz/static/js/main.defd49a3.js",
+    "index.html": "/geoguessr-quiz/index.html",
+    "main.9de3ba19.css.map": "/geoguessr-quiz/static/css/main.9de3ba19.css.map",
+    "main.defd49a3.js.map": "/geoguessr-quiz/static/js/main.defd49a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de3ba19.css",
+    "static/js/main.defd49a3.js"
+  ]
+}
